@@ -1,3 +1,5 @@
-print("Hello ", "World!")
+print(paste("Hello ", "World!"))
 
-print("Hello ", "Universe!")
+print(paste("Hello ", "Universe!"))
+
+print(paste("Goodbye ", "Moon"))
